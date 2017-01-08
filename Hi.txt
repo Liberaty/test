@@ -1,2 +1,2 @@
-print ("Hi!");
-print ("What's up?");
+print ("Hi!;");
+print ("What's up?;");
